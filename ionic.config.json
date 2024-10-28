@@ -1,0 +1,7 @@
+{
+  "name": "mp-angular-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
